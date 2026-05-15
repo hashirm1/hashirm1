@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there! 👋
+
+I'm Hashir. I'm currently a student at the University of Michigan 〽️ majoring in Computer Science.
+
+- 🔭 I’m currently working on building a self-hosted AI assistant
+- 🌱 I’m currently learning about Linux compositors and theming (KDE supremacy)
+- 💬 Ask me about any random NBA role player
+- 📫 How to reach me: email me any time at `hashirm@umich.edu`
 
 <!--
 **hashirm1/hashirm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
